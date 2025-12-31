@@ -1,6 +1,6 @@
 # ML Learning
 
-A collection of learning walkthroughs of popular ML algorithms guided by various books and AI chats.
+A collection of learning walkthroughs of popular ML algorithms.
 
 k-Nearest Neighbors:
 - 1D k-NN Regression
