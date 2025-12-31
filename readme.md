@@ -6,3 +6,6 @@ k-Nearest Neighbors:
 - 1D k-NN Regression
 - 2D k-NN Classification
 - Feature Scaling with k-NN
+
+Decision Trees:
+- Decision Tree Basics (Gini impurity, split points)
