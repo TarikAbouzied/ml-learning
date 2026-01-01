@@ -8,4 +8,4 @@ k-Nearest Neighbors:
 - Feature Scaling with k-NN
 
 Decision Trees:
-- Decision Tree Basics (Gini impurity, split points)
+- Decision Tree Classifier Basics (Gini impurity, split points)
