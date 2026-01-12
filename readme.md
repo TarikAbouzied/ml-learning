@@ -9,3 +9,4 @@ k-Nearest Neighbors:
 
 Decision Trees:
 - Decision Tree Classifier Basics (Gini impurity, split points)
+- Bagging
